@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: take a look on my social media link in bio ;)
 - 😄 Pronouns: Sir :)))
-- ⚡ Fun fact: I'm very bad at coding although i'm Computer Engineering :)
+- ⚡ Fun fact: I'm very bad at coding although i'm Computer Engineerer :)
 
 <!---
 hoanggtrn/hoanggtrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
